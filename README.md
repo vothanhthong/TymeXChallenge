@@ -136,6 +136,6 @@ This project is open-source and available under the **MIT License**. You are fre
 
 Watch the demo video showcasing the app's features and functionality:
 
-[![Currency Converter App Demo](https://youtu.be/crZeOMlwSvE)](https://youtu.be/crZeOMlwSvE)
+[![Currency Converter App Demo](https://img.youtube.com/vi/crZeOMlwSvE/0.jpg)](https://youtu.be/crZeOMlwSvE)
 
 Alternatively, you can click this link: [Currency Converter App Demo](https://youtu.be/crZeOMlwSvE)
