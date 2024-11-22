@@ -49,15 +49,15 @@ The **Currency Converter** is a mobile application built using **Kotlin** and **
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repository/currency-converter.git
-   cd currency-converter
+   git clone https://github.com/vothanhthong/TymeXChallenge
+   cd TymeXChallenge
    ```
 2. Open the project in Android Studio.
 
 3. Add your API key:
    - Open (or create) the local.properties file in the project root.
    - Add the following line:
-     FX_RATE_API=your_api_key_here
+     FX_RATES_API=your_api_key_here
 4. Build and run the project on an emulator or a physical Android device.
 
 # Usage
