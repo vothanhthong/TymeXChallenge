@@ -34,7 +34,7 @@ The **Currency Converter** is a mobile application built using **Kotlin** and **
 - Custom numeric keyboard supporting:
   - Arithmetic operations: addition, subtraction, multiplication, division.
   - Special functions: percentage, clear, delete, equals.
-- Modern, responsive UI with planned light/dark theme support.
+- Modern, responsive UI.
 
 ---
 
